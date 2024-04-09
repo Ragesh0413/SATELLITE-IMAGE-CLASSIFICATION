@@ -1,4 +1,4 @@
-# Eye In The Sky
+# SATELLITE-IMAGE-CLASSIFICATION
 
 [Satellite Image Classification](http://inter-iit.tech/events/the-eye-in-the-sky.html), InterIIT Techmeet 2018, IIT Bombay.
 

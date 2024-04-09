@@ -25,7 +25,7 @@ Create folders with names `train_predictions` and `test_outputs` to save model p
 
 ```
 $ git clone https://github.com/manideep2510/eye-in-the-sky.git
-$ cd eye-in-the-sky
+$ cd SATELLITE-IMAGE-CLASSIFICATION
 $ mkdir train_predictions
 $ mkdir test_outputs
 ```

@@ -1,9 +1,5 @@
 # SATELLITE-IMAGE-CLASSIFICATION
 
-[Satellite Image Classification](http://inter-iit.tech/events/the-eye-in-the-sky.html), InterIIT Techmeet 2018, IIT Bombay.
-
-Team: [Manideep Kolla](https://github.com/manideep2510), [Aniket Mandle](https://github.com/aniketmandle-sopho), [Apoorva Kumar](https://github.com/cybr17crwlr)
-
 ## About
 
 This repository contains the implementation of two algorithms namely [U-Net: Convolutional Networks for Biomedical
